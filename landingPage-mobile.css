@@ -1,0 +1,520 @@
+@media only screen and (max-width: 1281px) {
+    body {
+        background: #FFFFFF !important;
+        /* width: 393px;*/
+    }
+
+    /* navbat begin*/
+    body>nav.navbar {
+        padding: 16px !important;
+
+
+    }
+
+    body>nav.navbar .navbar-toggler {
+        border: none;
+        width: 24px;
+        height: 24px;
+        display: flex;
+        padding: 0;
+    }
+
+    body>nav.navbar .navbar-toggler .navbar-toggler-icon {
+        background-image: url(images/menu-scale.png);
+        width: 24px;
+        height: 24px;
+    }
+
+    /* nav end*/
+    /*first section begin*/
+    body>.section-first {
+        flex-flow: column;
+        padding: 48px 16px 48px 16px;
+        gap: 32px;
+        align-items: center;
+
+    }
+
+    body>.section-first .section-first-left-area {
+        gap: 32px;
+    }
+
+    body>.section-first .text-header {
+
+        color: #0F172A !important;
+        font-size: 56px;
+        line-height: 61.6px;
+        text-align: center;
+
+    }
+
+    body>.section-first .text-main {
+
+        color: #0F172A !important;
+        text-align: center;
+
+    }
+
+
+
+    body>.section-first>.section-first-right-area {
+
+        width: 361px;
+        height: 314.2px;
+
+    }
+
+    body>.section-first .shoe-image {
+        width: 100%;
+        height: 100%;
+
+    }
+
+    body>.section-first .bg-square {
+        width: 272.61px;
+        height: 276.32px;
+        gap: 10px;
+        border-radius: 50px;
+
+        left: 40px;
+        top: 40px;
+        z-index: -1;
+    }
+
+    body>.section-first>.top-bg-triangle-mobile {
+
+        display: flex;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        border-top: 324px solid transparent;
+        border-right: 100vw solid #FEF3C7;
+        z-index: -2;
+    }
+
+    /*first section end*/
+    /*second section begin*/
+    body>.section-second>.top-bg-triangle {
+
+        display: none;
+    }
+
+    body>.section-second {
+        margin: 0px;
+        padding: 48px 16px 48px 16px;
+        gap: 32px;
+        background-color: #FEF3C7;
+        ;
+    }
+
+    body>.section-second .section-second-wrapper {
+        width: 100%;
+        margin: 0;
+    }
+
+    body>.section-second .section-second-card {
+        padding: 0;
+        width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+
+    /*second section end*/
+    /*third section begin*/
+
+    body>.section-third {
+
+        padding: 48px 16px 48px 16px;
+        gap: 32px;
+
+    }
+
+    body>.section-third .shape:nth-of-type(1) {
+        width: 202.09px;
+        height: 202.09px;
+        top: 513.8px;
+        left: 36.54px;  
+    }
+    body>.section-third .shape:nth-of-type(2) {
+        width: 120.06px;
+        height: 120.06px;
+        top: 854.6px;
+        left: 272.94px;
+             
+    }
+    
+    body>.section-third .shape:nth-of-type(3) {
+        width: 96.95px;
+        height: 96.95px;
+        top: 1077.57px;
+        left: 53.69px;
+                
+    }
+    body>.section-third .shape:nth-of-type(4) {
+        width: 150.64px;
+        height: 150.64px;
+        top: 1272.21px;
+        left: 0px;
+        
+              
+    }
+    body>.section-third .shape:nth-of-type(5) {
+        width: 173.01px;
+        height: 173.01px;
+        top: 1353.49px;
+        left: 172.26px;
+    }
+    body>.section-third .section-third-header {
+        display: flex;
+        flex-flow: column;
+        gap: 32px;
+        align-items: center;
+    }
+
+    body>.section-third .section-third-header-text {
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 35.2px;
+        text-align: center;
+    }
+
+    body>.section-third .section-third-header-button {
+
+        width: 233px;
+
+    }
+
+    body>.section-third .section-third-cards>.row {
+
+        flex-flow: column;
+
+    }
+
+    body>.section-third .card-button {
+        gap: 0;
+    }
+
+    /*third section end*/
+    /*fourth section begin*/
+    body>.section-fourth {
+        padding: 16px 16px 56px 16px;
+        background-color: transparent;
+
+    }
+
+    body>.section-fourth .shape:nth-of-type(1) {
+        width: 134.59px;
+        height: 134.59px;
+        top: 525.81px;
+        left: 281.73px;
+        
+    
+    
+        
+    }
+    body>.section-fourth .shape:nth-of-type(2) {
+        width: 36.42px;
+        height: 37.04px;
+        
+        top: 308.69px;
+    right: 63.74px;z-index: 3;
+        
+        
+             
+    }
+    
+    body>.section-fourth .shape:nth-of-type(3) {
+        width: 55.56px;
+        height: 55.56px;
+        top: 392.46px;
+        left:  10.09px;
+    
+        
+                
+    }
+    body>.section-fourth .shape:nth-of-type(4) {
+        width: 45.69px;
+        height: 45.69px;
+        top: 574.58px;
+        right: 88.43px;
+              
+    }
+    body>.section-fourth .shape:nth-of-type(5) {
+        width: 411.34px;
+height: 134.55px;
+transform: translate(-38px, 408.81px) rotate(-45deg);
+
+
+    }
+    body>.section-fourth .inner-contariner {
+
+        padding: 32px 16px 32px 16px;
+        gap: 32px;
+        border-radius: 30px;
+        box-shadow: 0px 0px 10px 0px #00000012;
+        box-shadow: 0px 20px 25px -5px #0000001A;
+        flex-flow: column;
+    }
+
+    body>.section-fourth .text-area {
+        align-items: center;
+    }
+
+    body>.section-fourth .text-area-title {
+
+
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 35.2px;
+        text-align: center;
+
+    }
+
+    body>.section-fourth .text-area-text>li {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 22.4px;
+        text-align: left;
+
+    }
+
+    body>.section-fourth .text-area-text>li:before {
+
+        top: 15%;
+
+    }
+
+    body>.section-fourth .image-area {
+
+        height: 234px;
+    }
+
+    /*fourth section end*/
+    /*fifth section begin*/
+    body>.section-fifth {
+        padding: 48px 16px 48px 16px;
+        gap: 32px;
+
+    }
+
+    body>.section-fifth .fifth-rectangle {
+        position: absolute;
+        width: 100%;
+        height: 277px;
+        background-color: #FDE68A;
+        top: 21%;
+        left: 0;
+        transform: none;
+    }
+
+    body>.section-fifth .title-area {
+        gap: 32px;
+    }
+
+    body>.section-fifth .section-fifth-title {
+
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 35.2px;
+        text-align: center;
+
+    }
+
+    body>.section-fifth .carousel-buttons {
+        display: none;
+    }
+
+    body>.section-fifth .carousel-inner {
+        left: -15px;
+        display: flex;
+        gap: 16px
+    }
+
+    body>.section-fifth .carousel-item {
+        display: block;
+        margin: 0;
+        flex: 0 0 319px;
+    }
+
+    body>.section-fifth .card {
+        display: flex;
+        padding: 24px;
+        flex-flow: column;
+        gap: 8px;
+        height: auto;
+    }
+
+    body>.section-fifth .card-text-area {
+        font-size: 16px;
+        line-height: 22.4px;
+        text-align: left;
+
+
+    }
+
+    /*fifth section end*/
+
+    /*sixth section begin*/
+
+    body>.section-sixth {
+        padding: 48px 16px 96px 16px;
+        gap: 32px;
+    }
+
+    body>.section-sixth .sixth-header-area {
+        align-items: center;
+    }
+
+    body>.section-sixth .sixth-title {
+
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 35.2px;
+        text-align: center;
+
+
+    }
+
+    body>.section-sixth .sixth-text {
+
+        font-size: 16px;
+        line-height: 22.4px;
+        text-align: center;
+
+    }
+
+    body>.section-sixth .sixth-content-area {
+
+        flex-flow: column;
+        gap: 27px;
+    }
+
+    body>.section-sixth .sixth-bar-area {
+        flex-flow: row;
+        gap: 16px;
+        overflow: scroll;
+        width: 100%;
+        padding-bottom: 5px;
+    }
+
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    body>.section-sixth .sixth-bar-area::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    body>.section-sixth .sixth-bar-area {
+        -ms-overflow-style: none;
+        /* IE and Edge */
+        scrollbar-width: none;
+        /* Firefox */
+    }
+
+    body>.section-sixth .bar-button {
+        min-width: 178px;
+
+    }
+
+    body>.section-sixth .bar-button:hover .button-selected-icon {
+        display: none;
+    }
+
+    body>.section-sixth .sixth-screen-area {
+
+        height: 259px;
+        gap: 10px;
+
+    }
+
+    body>.section-sixth .big-screen {
+        width: 294px;
+        height: 201px;
+
+    }
+
+    body>.section-sixth .big-screen img {
+        height: 160px;
+    }
+
+    body>.section-sixth .mid-screen {
+        width: 295px;
+        height: 202px;
+        left: 10%;
+        top: 25%;
+    }
+
+    body>.section-sixth .mid-screen img {
+        height: 159px;
+    }
+
+    body>.section-sixth .small-screen {
+        width: 94px;
+        height: 105px;
+        top: 55%;
+
+    }
+
+    /*sixth section end*/
+    /*seventh section begin*/
+    body>.section-seventh {
+        height: 717px;
+        padding: 48px 16px 48px 16px;
+        gap: 32px;
+        border: 1px 0px 1px 0px;
+    }
+
+
+    body>.section-seventh .map {
+        width: 1049px;
+        height: 633px;
+        padding: 0px 0.07px 0px 1.2px;
+        transform: none;
+        left: 20px;
+        top: 0;
+
+
+    }
+
+
+    body>.section-seventh .map-numbers {
+        font-size: 48px;
+        font-weight: 800;
+        line-height: 52.8px;
+        text-align: center;
+    }
+
+    body>.section-seventh .map-text {
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 35.2px;
+        text-align: center;
+    }
+    
+/*seventh section end*/
+/*footer begin*/
+
+body>.page-footer {
+    padding: 0px 16px 0px 16px;
+    
+}
+
+body>.page-footer .footer-top-area {
+    flex-flow: column;
+    text-align-last: center;
+    align-items: center;
+}
+body>.page-footer .footer-top-area>div {
+    width: 347px;
+    max-width: unset;
+}
+body>.page-footer .footer-top-area .navbar-social-link-area {
+    justify-content: center;
+}
+body>.page-footer .footer-bottom-area{
+    flex-flow: column;
+    gap: 24px;
+padding: 48px 0px 48px 0px;
+align-items: center;
+
+}
+}
